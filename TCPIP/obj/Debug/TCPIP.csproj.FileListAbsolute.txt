@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\TCPIP\TCPIP\bin\Debug\TCPIP.exe.config
+C:\Users\Admin\source\repos\TCPIP\TCPIP\bin\Debug\TCPIP.exe
+C:\Users\Admin\source\repos\TCPIP\TCPIP\bin\Debug\TCPIP.pdb
+C:\Users\Admin\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.exe
+C:\Users\Admin\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.pdb
